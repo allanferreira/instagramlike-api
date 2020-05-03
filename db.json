@@ -19,25 +19,34 @@
   ],
   "photos": [
     {
-      "user_id": 1,
+      "userId": 1,
       "id": 14,
       "postDate": "2018-04-12T20:27:17.161Z",
       "url": "https://bit.ly/2KRHZBV",
-      "description": "Nautilus"
+      "description": "Nautilus",
+      "allowComments": true,
+      "likes": 1,
+      "comments": []
     },
     {
-      "user_id": 2,
+      "userId": 2,
       "id": 15,
       "postDate": "2019-09-12T20:27:17.161Z",
       "url": "https://bit.ly/2KRHZBV",
-      "description": "Nautilus"
+      "description": "Nautilus",
+      "allowComments": true,
+      "likes": 3,
+      "comments": []
     },
     {
-      "user_id": 1,
+      "userId": 1,
       "id": 16,
       "postDate": "2019-10-12T20:27:17.161Z",
       "url": "https://bit.ly/2WwY5GH",
-      "description": "Maokai"
+      "description": "Maokai",
+      "allowComments": false,
+      "likes": 14,
+      "comments": []
     }
   ]
 }
