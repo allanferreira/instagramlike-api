@@ -30,6 +30,28 @@
       "comments": []
     },
     {
+      "userId": 1,
+      "username": "allanferreira",
+      "id": 19,
+      "postDate": "2018-04-12T20:27:17.161Z",
+      "url": "https://images.alphacoders.com/101/thumb-1920-1018070.jpg",
+      "description": "Miss Fortune",
+      "allowComments": true,
+      "likes": 6,
+      "comments": []
+    },
+    {
+      "userId": 1,
+      "username": "allanferreira",
+      "id": 19,
+      "postDate": "2018-04-12T20:27:17.161Z",
+      "url": "https://static2.lolwallpapers.net/2016/03/56ee7ca870399.jpg",
+      "description": "Jinx",
+      "allowComments": true,
+      "likes": 16,
+      "comments": []
+    },
+    {
       "userId": 2,
       "username": "mahpiacesi",
       "id": 15,
