@@ -2,7 +2,7 @@
   "users": [
     {
       "id": 1,
-      "name": "allanferreira",
+      "username": "allanferreira",
       "email": "allan.html@gmail.com",
       "password": "1234",
       "fullname": "Allan Ferreira",
@@ -10,7 +10,7 @@
     },
     {
       "id": 2,
-      "name": "mahpiacesi",
+      "username": "mahpiacesi",
       "email": "mahpiacesi@gmail.com",
       "password": "4321",
       "fullname": "Marianna Piacesi",
@@ -20,6 +20,7 @@
   "photos": [
     {
       "userId": 1,
+      "username": "allanferreira",
       "id": 14,
       "postDate": "2018-04-12T20:27:17.161Z",
       "url": "https://bit.ly/2KRHZBV",
@@ -30,6 +31,7 @@
     },
     {
       "userId": 2,
+      "username": "mahpiacesi",
       "id": 15,
       "postDate": "2019-09-12T20:27:17.161Z",
       "url": "https://bit.ly/2KRHZBV",
@@ -40,6 +42,7 @@
     },
     {
       "userId": 1,
+      "username": "allanferreira",
       "id": 16,
       "postDate": "2019-10-12T20:27:17.161Z",
       "url": "https://bit.ly/2WwY5GH",
